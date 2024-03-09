@@ -11,7 +11,7 @@ Arrow Functions Examples.
 ### Installing
 
 ```
-* npm i
+npm i
 ```
 
 ### Executing program
