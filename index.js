@@ -1,0 +1,12 @@
+// require('./syntax');
+// require('./binding-to-this');
+// require('./binding-to-this-1');
+// require('./binding-to-this-2');
+// require('./binding-to-this-3');
+// require('./arguments');
+// require('./arguments-1');
+// require('./incorrect-usage');
+require('./arguments-2');
+require('./regular-to-arrow');
+require('./unnamed');
+require('./body-expression');

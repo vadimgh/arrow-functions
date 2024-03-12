@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon -q --exec \"npm run clear && node\" *.js",
+    "start": "nodemon -q --exec \"npm run clear && node\" index.js",
     "clear": "clear"
   },
   "keywords": [],
